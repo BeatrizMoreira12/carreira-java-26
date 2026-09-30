@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Carreira - java - alura26.iml" filepath="$PROJECT_DIR$/.idea/Carreira - java - alura26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apiCep/apiCep.iml" filepath="$PROJECT_DIR$/apiCep/apiCep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-screenmatch-consumindo-api/java-screenmatch-consumindo-api.iml" filepath="$PROJECT_DIR$/java-screenmatch-consumindo-api/java-screenmatch-consumindo-api.iml" />
+    </modules>
+  </component>
+</project>
