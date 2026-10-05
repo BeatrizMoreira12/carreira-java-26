@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Carreira - java - alura26.iml" filepath="$PROJECT_DIR$/.idea/Carreira - java - alura26.iml" />
       <module fileurl="file://$PROJECT_DIR$/apiCep/apiCep.iml" filepath="$PROJECT_DIR$/apiCep/apiCep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/condicionais/condicionais.iml" filepath="$PROJECT_DIR$/condicionais/condicionais.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-screenmatch-consumindo-api/java-screenmatch-consumindo-api.iml" filepath="$PROJECT_DIR$/java-screenmatch-consumindo-api/java-screenmatch-consumindo-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/variaveis-tipos/variaveis-tipos.iml" filepath="$PROJECT_DIR$/variaveis-tipos/variaveis-tipos.iml" />
     </modules>
   </component>
 </project>
